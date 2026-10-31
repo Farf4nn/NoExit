@@ -2,3 +2,9 @@
 * text=auto
 
 Content/Blueprints/** filter=lfs diff=lfs merge=lfs -text
+Content/Actors_de_Prueba/** filter=lfs diff=lfs merge=lfs -text
+Content/Animaciones_Nuevas/** filter=lfs diff=lfs merge=lfs -text
+Content/LevelPrototyping/** filter=lfs diff=lfs merge=lfs -text
+Content/Nuevo_Personaje/** filter=lfs diff=lfs merge=lfs -text
+Content/Characters/** filter=lfs diff=lfs merge=lfs -text
+Content/Mannequins/** filter=lfs diff=lfs merge=lfs -text

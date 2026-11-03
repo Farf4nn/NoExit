@@ -8,3 +8,7 @@ Content/LevelPrototyping/** filter=lfs diff=lfs merge=lfs -text
 Content/Nuevo_Personaje/** filter=lfs diff=lfs merge=lfs -text
 Content/Characters/** filter=lfs diff=lfs merge=lfs -text
 Content/Mannequins/** filter=lfs diff=lfs merge=lfs -text
+Content/NPC_LAB_11/** filter=lfs diff=lfs merge=lfs -text
+Content/FirstPerson/** filter=lfs diff=lfs merge=lfs -text
+Content/Input/** filter=lfs diff=lfs merge=lfs -text
+Content/Variant_Horror/** filter=lfs diff=lfs merge=lfs -text

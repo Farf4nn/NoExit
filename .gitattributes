@@ -16,3 +16,4 @@ Content/InfinityAssets/** filter=lfs diff=lfs merge=lfs -text
 Content/Materiales/** filter=lfs diff=lfs merge=lfs -text
 Content/Niveles/** filter=lfs diff=lfs merge=lfs -text
 Content/Toilet/** filter=lfs diff=lfs merge=lfs -text
+Content/Texture/** filter=lfs diff=lfs merge=lfs -text
